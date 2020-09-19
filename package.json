@@ -1,5 +1,5 @@
 {
-  "name": "@nnnx/network-utils",
+  "name": "@nnnx/websocket",
   "version": "1.0.19",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "node-fetch": "^2.6.0",
     "uuid": "^3.3.3",
     "websocket": "^1.0.29",
-    "@nnnx/utils": "latest"
+    "@nnnx/utils": "^1.0.30"
   },
   "devDependencies": {
     "@types/node": "^12.11.1",
