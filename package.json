@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@nnnx/utils": "^1.0.32",
     "base64-stream": "^1.0.0",
     "node-fetch": "^2.6.0",
     "uuid": "^3.3.3",
-    "websocket": "^1.0.29",
-    "@nnnx/utils": "^1.0.30"
+    "websocket": "^1.0.29"
   },
   "devDependencies": {
     "@types/node": "^12.11.1",
