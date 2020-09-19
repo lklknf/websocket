@@ -1,6 +1,6 @@
 const Client = require('websocket').client;
 const EventEmitter = require('events');
-const {sleep} = require('@nnnx/node-utils');
+const {sleep} = require('@nnnx/utils');
 
 class WebSocketClient extends EventEmitter {
 
